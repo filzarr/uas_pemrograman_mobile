@@ -1,8 +1,17 @@
 # uas_pemmob
 
-A new Flutter project.
+# package
+- Salomon bottom bar
+- image card
+
+## Screenshoot
+![image](https://github.com/filzarr/uas_pemrograman_mobile/assets/105374235/81adf447-7bd3-44e6-bff2-3e7a6c463c90)
 
 ## Getting Started
+untuk menginstall package flutter pub get
+
+
+
 
 This project is a starting point for a Flutter application.
 
