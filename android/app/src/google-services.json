@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "633177970462",
+    "project_id": "com-uaspemmob",
+    "storage_bucket": "com-uaspemmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633177970462:android:c407465235f34826e55b0f",
+        "android_client_info": {
+          "package_name": "com.uas_pemmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTxE4mKDSncgKvXdF7jgnZ7gZmvcezIx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633177970462:android:c8217c293534302ee55b0f",
+        "android_client_info": {
+          "package_name": "com.uaspemmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTxE4mKDSncgKvXdF7jgnZ7gZmvcezIx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
